@@ -2,7 +2,7 @@
 
 main(){
 int s,w,k,a,b;
-for (a=0;a<11;a++)
+for (a=0;a<2000000;a++)
 b=-1;	
 
   for (w=0;w<10;w++){
