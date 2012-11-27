@@ -10,9 +10,10 @@ b=-1;
    printf("------");
    s=0;
    
-   for (k=0;k<10;k++){
+   while (k<10){
     s=s+b;
-    
+    k++;}
+
     printf("|%5d|", s);
     
     
