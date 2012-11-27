@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 main(){
-int s,w,k,a,b;
+int s,ww=0,k,a,b;
 for (a=0;a<11;a++)
 b=-1;	
 
-  for (w=0;w<10;w++){
-  b++; 
+  while (w<10){
+  b++
+  w++; 
    printf("------");
    s=0;
    
